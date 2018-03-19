@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 最后一行，改为：
 
 Creating a new branch is quick and simple.
+
+修复bug101
